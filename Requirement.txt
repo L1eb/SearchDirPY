@@ -1,0 +1,7 @@
+requests
+os
+cloudscraper
+httplib2
+http
+HTTPStatus from httplib2
+time
