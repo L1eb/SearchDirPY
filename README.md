@@ -8,8 +8,12 @@ python3 -m pip install -r requirements.txt
 or
 python -m pip install -r requirements.txt
 ```
-![image](https://user-images.githubusercontent.com/69158050/199119589-2b8c0a87-82ca-4bd2-9af2-2d296094ca47.png)
+![image](https://user-images.githubusercontent.com/69158050/199120064-673899cf-4e50-44ab-a17a-c7d4705a94bc.png)
 
 after
 
-![image](https://user-images.githubusercontent.com/69158050/199119626-84e585d8-6657-49f6-a283-b7284e2bd5c5.png)
+![image](https://user-images.githubusercontent.com/69158050/199120134-376a75d7-ee9c-4375-a8d1-d5f739460d48.png)
+
+then 
+
+![image](https://user-images.githubusercontent.com/69158050/199120180-9853d69e-b017-4780-99a3-998b7624a264.png)
