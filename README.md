@@ -7,6 +7,10 @@ cd SearchDirPY
 python3 -m pip install -r requirements.txt
 or
 python -m pip install -r requirements.txt
+
+AND 
+
+python rqtest2.py
 ```
 ![image](https://user-images.githubusercontent.com/69158050/199120064-673899cf-4e50-44ab-a17a-c7d4705a94bc.png)
 
@@ -17,3 +21,4 @@ after
 then 
 
 ![image](https://user-images.githubusercontent.com/69158050/199120180-9853d69e-b017-4780-99a3-998b7624a264.png)
+
