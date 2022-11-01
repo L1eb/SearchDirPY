@@ -49,7 +49,7 @@ with open(filee, errors='ignore') as temp_f:
         d = requests.get(u)
         scraper = cloudscraper.create_scraper()
         if d.status_code == 404:
-            print("")
+            False
 
         elif d.status_code == 200:
             time.sleep(1)
