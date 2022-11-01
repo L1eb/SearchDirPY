@@ -1,6 +1,6 @@
 Installation
 ```
-git clone https://github.com/L1eb/SearchDirPY
+git clone https://github.com/L1eb/SearchDirPY.git
 
 cd SearchDirPY
 
